@@ -1,12 +1,3 @@
-Add more conditional behavior in Kotlin - Solution Code
-=======================================
-
-Solution code for the Android Basics in Kotlin: Add more conditional behavior in Kotlin codelab.
-
-Introduction
-------------
-In this codelab, you add images to the Dice Roller app, which enhance the user experience.
-
 Pre-requisites
 --------------
 
